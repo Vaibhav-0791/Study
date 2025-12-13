@@ -1,0 +1,55 @@
+✅ *Basic Level (1–15)*
+Find the largest element in an array.
+Find the smallest element in an array.
+Calculate the sum of all elements in an array.
+Calculate the average of array elements.
+Count how many even and odd numbers are in an array.
+Print the array in reverse order.
+Copy all elements of one array into another array.
+Search for an element in an array (linear search).
+Find the second largest element in an array.
+Find the second smallest element in an array.
+Check if an array is sorted (ascending).
+Print only unique elements of an array.
+Print only duplicate elements of an array.
+Count how many times a given element appears in an array.
+Merge two arrays into a single array.
+---
+🔹 *Medium Level (16–35)*
+Sort an array without using Arrays.sort().
+Rotate an array to the left by 1 position.
+Rotate an array to the right by 1 position.
+Rotate an array by _k_ positions (user input).
+Reverse an array in-place without using another array.
+Remove a specific element from an array.
+Insert an element at a specific index in an array.
+Separate even and odd numbers into two arrays.
+Find the frequency of each element in an array.
+Find all pairs of elements whose sum equals a given number.
+Find the maximum product of two integers in an array.
+Move all zeros to the end of the array (order should remain same).
+Find the missing number in an array of 1 to n.
+Remove duplicates from an array.
+Find the longest consecutive sequence in an array.
+Count how many positive, negative, and zero elements are in an array.
+Check if two arrays are equal.
+Convert an array to ArrayList.
+Convert ArrayList to array.
+Find common elements between two arrays.
+---
+🔥 *Advanced Level (36–50)*
+Find the largest sum of a contiguous subarray (Kadane’s Algorithm).
+Find the subarray whose sum is equal to a target (Sliding window).
+Find the equilibrium index (left sum = right sum).
+Find the majority element (element appearing more than n/2 times).
+Find the top 3 largest elements in an array.
+Rearrange array: negative numbers first, positive later (order not important).
+Rearrange array: negative and positive alternate.
+Given a sorted + rotated array, find the minimum element.
+Given a sorted + rotated array, search an element (binary search).
+Spiral print a 2D array.
+Transpose a matrix.
+Add two matrices.
+Multiply two matrices.
+Check if two matrices are equal.
+Find the saddle point in a matrix (element minimum in its row, maximum in its column).
